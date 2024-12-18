@@ -21,7 +21,15 @@ Hardware Components
   
 Software Components 
 - Arduino IDE
+### Working 
+1. Flame Detection: The flame sensor continuously monitors the surrounding environment for infrared radiation. When a flame is detected, the sensor generates an electrical signal.
 
+2. Signal Processing:The Arduino Uno microcontroller receives the electrical signal from the flame sensor.The microcontroller processes the signal to confirm the presence of a fire.
+   
+3. Alarm Activation: Upon confirmation of a fire, the microcontroller activates the buzzer. The buzzer emits a loud sound to alert the user of the fire hazard.
+
+4. Remote Notification (Optional): In advanced setups, the microcontroller can be connected to the internet through Wi-Fi or cellular networks. It can send alerts via SMS, email, or push notifications to inform the user about the fire.
+   
 ## Conclusion : This project successfully demonstrates the implementation of an IoT-based smoke detection system using an Arduino Uno microcontroller and a flame sensor.The system effectively detects flames and triggers an alarm, providing early warning and potentially preventing significant damage. 
 
 ### I invite further research to explore the limitations and potential enhancements of this system.
