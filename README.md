@@ -1,5 +1,5 @@
 # IoT-Smoke-Detector-
-# Iot Somke Detector 
+# IoT Somke Detector 
 ## Objective: 
 This project aims to develop a cost-effective and reliable IoT-based smoke detection system to alert users to fire hazards.
 
