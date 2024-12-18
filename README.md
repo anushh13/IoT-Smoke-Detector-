@@ -23,7 +23,8 @@ Software Components
 - Arduino IDE
 
 ## Conclusion : This project successfully demonstrates the implementation of an IoT-based smoke detection system using an Arduino Uno microcontroller and a flame sensor.The system effectively detects flames and triggers an alarm, providing early warning and potentially preventing significant damage. 
-### This is how I have created the IoT Smoke Detector using Arduino UNO 
+
+### I invite further research to explore the limitations and potential enhancements of this system.
 Project By - Anushka Sadegaonkar 
 
 [Github](https://github.com/anushh13)
